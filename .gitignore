@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# data folder and chroma_langchain_db
+data
+chroma_langchain_db
